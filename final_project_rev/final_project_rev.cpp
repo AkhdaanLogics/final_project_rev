@@ -1,3 +1,9 @@
+// TODO LIST :
+// 1. Fungsi Void Cetak Tiket Belum Menampilkan Data Penumpang ( Mungkin Masalah Ada Di Bagian Pemanggilan Struct Atau Perulangan )
+// 2. Melanjutkan Halaman Admin
+// 3. Merangkai Mana Yang Harus Dikurangi Atau Di Tambahkan
+// 4. Merapikan Tampilan
+
 #include <iostream>
 #include <string>
 using namespace std;
